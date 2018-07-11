@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body,input{
+	padding: 0;
+	margin: 0;
+}
+.page-header{
+	text-align: center;
+}
+.query{
+	width: 550px;
+	margin-left: 470px;
+}
+.query input{
+	margin-right: 20px;
+	width: 400px;
+}
+.table{
+	width: 1000px;
+	margin: 0 auto;
+}
+.allprice{
+	font-weight: bold;
+	font-size: 16px;
+}
+.additem{
+	width: 300px;
+	margin: 10px auto;
+}
+.additem input{
+	margin-top: 20px;
+}
+.additem button{
+	margin: 10px 0 0 80px;
+}
